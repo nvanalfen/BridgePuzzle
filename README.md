@@ -8,7 +8,7 @@ Files included:
 
 The file named BridgeObjects.py contains the three classes Node, Edge, BridgePuzzle that make up this type of puzzle. The BridgePuzzle class performs the main functionality
 
-To solve one of these puzzles using this fie, do the following:
+To solve one of these puzzles using this file, do the following:
 - Create a csv file in the same directory as BridgeObjects.py
   - In this csv file, fill all locations with 0
   - Where there are nodes in the puzzle, place the number of connections that may be made to that node
